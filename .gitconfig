@@ -1,0 +1,9 @@
+[user]
+	email = yenalec@gmail.com
+	name = Alec Yen
+[diff]
+	tool = meld
+[init]
+	templatedir = ~/.git_template
+[core]
+	excludesfile = /home/ayen/.gitignore_global
